@@ -1,0 +1,7 @@
+<?php
+  $spec_lang = array(
+  );
+  $notif = array(
+  );
+  $lang = array_merge($common_lang, $spec_lang);
+?>

@@ -1,0 +1,315 @@
+body {
+    font-family: Lato, sans-serif;
+    font-size: 13px;
+    margin-top: 70px
+}
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 0 !important;
+    border-bottom: 1px solid #eee;
+}
+
+.ast { color: red; }
+
+div.navbar-header {
+    padding-bottom: .5em;
+}
+
+nav img {
+    height: 40px;
+    width: 150px;
+    margin-left: 5rem;
+    margin-top: -6px;
+}
+
+.home-filter {
+    margin-bottom: 1em;
+}
+
+.serviceLate {
+    background-color: rgba(255, 162, 154, .58);
+}
+
+.report-icon .glyphicon {
+    font-size: 70px;
+}
+
+.jumbotron {
+    margin-top: 0;
+}
+
+.jumbotron img {
+    margin-left: -25px;
+}
+
+.carousel {
+    margin-bottom: 2em;
+}
+
+.carousel img {
+    margin: 0 auto;
+}
+
+.user-information .panel-title .btn-xs {
+    margin-top: -.3em;
+}
+
+.user-information .panel-body {
+    margin-bottom: -20px;
+}
+
+.user-information li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.tds-divider {
+    height: 1em;
+}
+
+select#city option {
+    width: 300px;
+}
+
+#calendar {
+    margin: 0 auto;
+}
+
+.fc-head {
+    background-color: #5484b7;
+}
+
+.fc-widget-content {
+    height: auto !important;
+}
+
+.fc-day {
+    background-color: #D7D7D7;
+}
+
+.fc-day-header span {
+    color: #fff;
+}
+
+.fc-other-month a {
+    color: #000;
+}
+
+.fc-title {
+    font-size: 16px;
+}
+
+.fc-event-container:hover {
+    cursor: pointer;
+}
+
+.fc-today {
+    background-color: #e0e061 !important;
+}
+
+.table:not(.table-bordered)>tbody>tr>td,
+.table:not(.table-bordered)>tbody>tr>th,
+.table:not(.table-bordered)>tfoot>tr>td,
+.table:not(.table-bordered)>tfoot>tr>th,
+.table:not(.table-bordered)>thead>tr>td,
+.table:not(.table-bordered)>thead>tr>th,
+table:not(.table-bordered)>tbody>tr>td,
+table:not(.table-bordered)>tbody>tr>th,
+table:not(.table-bordered)>tfoot>tr>td,
+table:not(.table-bordered)>tfoot>tr>th,
+table:not(.table-bordered)>thead>tr>td,
+table:not(.table-bordered)>thead>tr>th {
+    border-color: #fff!important;
+}
+
+#homeCalendar {
+    /*width: 40em;*/
+
+    margin-bottom: 2em;
+}
+
+div#homeBanner {
+    margin-top: 3em;
+}
+
+.images-list>li {
+    min-height: 280px;
+    border: none;
+}
+
+.sortableTable {
+    min-width: 318px !important;
+}
+
+table .table-buttons {
+    min-width: 80px;
+}
+
+.btn-over-table {
+    margin-bottom: 1rem;
+}
+
+.customer-page-icons {
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+#customers-button {
+    min-width: 100px;
+}
+
+/*div.hidden-xs li[role='presentation'] img {
+    height: 6rem;
+    width: 6rem;
+}*/
+
+.breadcrumb > li + li:before {
+    content: "/ ";
+    padding: 0 2px;
+}
+
+.breadcrumb {
+    margin-bottom: 30px;
+}
+
+#service_list {
+    margin-left: -14px;
+}
+
+div.visible-xs li[role='presentation'] {
+    max-width: 7.5rem;
+}
+
+div.visible-xs li[role='presentation'] a {
+    padding: 0.5rem;
+}
+
+div.visible-xs li[role='presentation'] p {
+    font-size: 12px;
+    margin: 0;
+}
+
+.breadcrumb {
+    margin-bottom: 1rem;
+}
+
+div.customer-page-icons li {
+    margin-left: 0;
+}
+
+.customers-filter {
+    margin-bottom: 1rem;
+    display: none;
+}
+
+.customers-form-filter {
+    /*padding: 0;
+    width: 150px !important;
+    margin-right: 1rem;
+    margin-left: 1rem;*/
+}
+
+form[name='customer-form'] input[type='date'] {
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.xs-icons {
+    margin-left: 1rem;
+}
+
+.xs-icons li a {
+    padding: 2px 5px;
+}
+
+.xs-icons li a img {
+    height: 48px;
+    width: 48px;
+}
+
+.xs-icons li a p {
+    margin: 0;
+}
+
+@media (min-width: 359px)
+    and (max-width: 415px)
+{
+    .xs-icons li a img {
+        height: 64px;
+        width: 64px;
+    }
+}
+
+@media (min-width: 411px)
+    and (max-width: 415px)
+{
+    .xs-icons {
+        margin-left: 2.5rem;
+    }
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+#table-top {
+    padding-bottom: 1rem;
+}
+
+.margin-top-3rem {
+    margin-top: 3rem;
+}
+
+div.booth {
+    width: 400px;
+    background-color: #ccc;
+    border: 10px solid #ddd;
+    margin: 0 auto;
+}
+
+.booth-capture-button {
+    display: block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: cornflowerblue;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+}
+
+.streets-list li {
+    padding: 5px 15px !important;
+}
+
+.street_select_button {
+    margin-left: 1rem;
+}
+.country_flag {
+  height: 24px;
+  width: 32px;
+  margin-left: 0rem;
+  margin-top: 0px;
+}
+.dropdown-flag {
+  min-width: 32px !important;
+}
+.checkedStar {
+  color: orange;
+}
+.fc-day-grid-container.fc-scroller {
+    height: auto!important;
+    overflow-y: auto;
+}
+.fc-title {
+    font-size: 9pt !important;
+    font-family: Verdana, Arial, Sans-Serif !important;
+}
+@media screen and (max-width: 1190px) {
+    .nav.navbar-nav ul > li > a {
+        /* Hide the text. */
+    /*text-indent: 100%;*/
+    white-space: nowrap;
+    overflow: hidden;
+    }
+}

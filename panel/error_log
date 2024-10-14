@@ -1,0 +1,6 @@
+[18-Apr-2019 15:49:31 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/aquacora/public_html/panel/cron.php on line 37
+[18-Apr-2019 15:49:35 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/aquacora/public_html/panel/cron.php on line 37
+[28-Jul-2023 19:37:07 Europe/Istanbul] PHP Notice:  Undefined index: merchant_oid in /home/aquacora/public_html/panel/external_payment.php on line 10
+[28-Jul-2023 19:37:07 Europe/Istanbul] PHP Notice:  Undefined index: status in /home/aquacora/public_html/panel/external_payment.php on line 10
+[28-Jul-2023 19:37:07 Europe/Istanbul] PHP Notice:  Undefined index: total_amount in /home/aquacora/public_html/panel/external_payment.php on line 10
+[28-Jul-2023 19:37:07 Europe/Istanbul] PHP Notice:  Undefined index: hash in /home/aquacora/public_html/panel/external_payment.php on line 11

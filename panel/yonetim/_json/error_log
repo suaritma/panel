@@ -1,0 +1,41 @@
+[23-Jul-2018 12:37:05 Europe/Istanbul] PHP Notice:  Use of undefined constant   - assumed ' ' in /home/aquacora/public_html/panel/yonetim/_json/get_customer_info.php on line 41
+[26-Jul-2018 17:42:58 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[26-Jul-2018 17:42:58 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[26-Jul-2018 17:42:58 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[26-Jul-2018 17:42:58 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[26-Jul-2018 17:43:06 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[26-Jul-2018 17:43:06 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[26-Jul-2018 17:43:06 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[26-Jul-2018 17:43:06 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[27-Jul-2018 11:34:42 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[27-Jul-2018 11:34:42 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[27-Jul-2018 11:34:42 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[27-Jul-2018 11:34:42 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[30-Jul-2018 13:09:16 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[30-Jul-2018 13:09:16 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[30-Jul-2018 13:09:16 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[30-Jul-2018 13:09:16 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[01-Oct-2018 17:11:37 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[01-Oct-2018 17:11:37 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[01-Oct-2018 17:11:37 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[01-Oct-2018 17:11:37 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[01-Oct-2018 17:11:47 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[01-Oct-2018 17:11:47 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[01-Oct-2018 17:11:47 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[01-Oct-2018 17:11:47 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[01-Oct-2018 17:18:11 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[01-Oct-2018 17:18:11 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 21
+[01-Oct-2018 17:18:11 Europe/Istanbul] PHP Notice:  Undefined variable: result_monthly in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[01-Oct-2018 17:18:11 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aquacora/public_html/panel/yonetim/_json/get_index_stat.php on line 39
+[02-Oct-2018 16:43:34 Europe/Istanbul] PHP Notice:  Undefined variable: towns in /home/aquacora/public_html/panel/yonetim/_json/get_calendar_info.php on line 21
+[20-Oct-2018 11:23:06 Europe/Istanbul] PHP Notice:  Undefined index: nextservice in /home/aquacora/public_html/panel/yonetim/_json/get_calendar_info.php on line 67
+[11-Nov-2018 02:37:06 Europe/Istanbul] PHP Notice:  Undefined variable: colors in /home/aquacora/public_html/panel/yonetim/_json/get_calendar_info.php on line 68
+[11-Nov-2018 02:37:06 Europe/Istanbul] PHP Notice:  Undefined variable: colors in /home/aquacora/public_html/panel/yonetim/_json/get_calendar_info.php on line 68
+[11-Nov-2018 02:37:06 Europe/Istanbul] PHP Notice:  Undefined variable: colors in /home/aquacora/public_html/panel/yonetim/_json/get_calendar_info.php on line 68
+[11-Nov-2018 02:37:06 Europe/Istanbul] PHP Notice:  Undefined variable: colors in /home/aquacora/public_html/panel/yonetim/_json/get_calendar_info.php on line 68
+[11-Nov-2018 02:37:06 Europe/Istanbul] PHP Notice:  Undefined variable: colors in /home/aquacora/public_html/panel/yonetim/_json/get_calendar_info.php on line 68
+[11-Nov-2018 02:37:06 Europe/Istanbul] PHP Notice:  Undefined variable: colors in /home/aquacora/public_html/panel/yonetim/_json/get_calendar_info.php on line 68
+[11-Nov-2018 02:37:06 Europe/Istanbul] PHP Notice:  Undefined variable: colors in /home/aquacora/public_html/panel/yonetim/_json/get_calendar_info.php on line 68
+[11-Nov-2018 02:37:06 Europe/Istanbul] PHP Notice:  Undefined variable: colors in /home/aquacora/public_html/panel/yonetim/_json/get_calendar_info.php on line 68
+[11-Nov-2018 02:37:06 Europe/Istanbul] PHP Notice:  Undefined variable: colors in /home/aquacora/public_html/panel/yonetim/_json/get_calendar_info.php on line 68
+[11-Nov-2018 02:37:06 Europe/Istanbul] PHP Notice:  Undefined variable: colors in /home/aquacora/public_html/panel/yonetim/_json/get_calendar_info.php on line 68

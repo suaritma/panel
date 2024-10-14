@@ -1,0 +1,71 @@
+body {
+    margin-top: 70px;
+}
+
+.ast {
+    color: red;
+}
+
+form #amount {
+    width: 150px;
+    float: left;
+}
+
+form #decimalPoint {
+    border: none;
+    font-size: xx-large;
+    float: left;
+    background-color: transparent;
+    width: 16px;
+}
+
+form #decimalValue {
+    width: 70px;
+    float: left;
+}
+
+form #currency {
+    border: none;
+    float: left;
+    font-size: 30px;
+    margin-top: -5px;
+    background: transparent;
+}
+
+form #paymentType {
+    margin-top: 5px;
+}
+
+table .table-header {
+    background-color: #1084bf;
+    color: #fff;
+}
+
+table td.td-value:hover {
+    background-color: #FCDEC2 !important;
+}
+
+table input:hover {
+    cursor: pointer;
+}
+
+table label {
+    height: 100%;
+    width: 100%;
+}
+
+table label:hover {
+    cursor: pointer;
+}
+
+@media screen and (max-width: 480px) {
+    .installmentPercent {
+        font-size: 11px;
+    }
+    .dataPaymentBody {
+        font-size: 12px;
+    }
+    .dataPaymentHead {
+        font-size: 12px;
+    }
+}
